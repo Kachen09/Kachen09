@@ -1,4 +1,4 @@
-# Kachen Konchai 🚀
+# Kachen Konchai 
 
 > **Information Technology & Digital Innovation @ MUT**
 
