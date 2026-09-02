@@ -1,15 +1,11 @@
-# 👨‍💻 Kachen Konchai
+# Kachen Konchai 🚀
 
-> **Information Technology & Digital Innovation Student @ Mahanakorn University of Technology**
+> **Information Technology & Digital Innovation @ MUT**
 
-Welcome to my GitHub! I'm a developer-in-training who loves bridging the gap between front-end aesthetics and back-end logic. I specialize in Full-Stack web development and cross-platform mobile applications, always looking for the next challenge to level up my coding skills.
+- 💻 **Focus:** Full-Stack Web & Cross-Platform Mobile Development
+- 🎓 **Education:** Mahanakorn University of Technology
+- 📫 **Contact:** kachankk67@gmail.com
 
-### 🎯 What I'm Up To
-- 🚀 **Currently Building:** Diving deep into cross-platform mobile apps with **React Native** & **SwiftUI**, and enterprise web solutions using **ASP.NET Core**.
-- 💡 **Core Focus:** Writing clean code, building POS systems, and exploring financial trading algorithms.
-- 📫 **How to reach me:** kachankk67@gmail.com
-
----
 
 ### Tech Stacks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
